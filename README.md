@@ -6,5 +6,6 @@ But we don't stop there. We partner with restaurants and other cooking partners 
 
 > **This template is responsive for all screens, and i have learned this template from [Build Responsive Real-World Websites with HTML and CSS] udemy course.**
 
-> ** This template deployed to netlify** 
+> **This template deployed to netlify** 
+
 > live demo : https://omnifood-ahmedelsharkawy.netlify.app/ 
